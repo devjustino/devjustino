@@ -1,5 +1,5 @@
 ### E aí pessoas!!  
-#### Seja bem-vindo, o meu nome é Rafael Justino! ✌️😄  
+#### Seja bem-vindo ao meu perfil! ✌️😄  
 
 <div style="display: inline_block">
 	<a href="https://www.instagram.com/dev.justino" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
