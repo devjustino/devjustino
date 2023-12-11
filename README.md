@@ -2,7 +2,6 @@
 #### Seja bem-vindo ao meu perfil! ✌️😄  
 
 <div style="display: inline_block">
-	<a href="https://www.instagram.com/dev.justino" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
 	<a href="mailto:contatodevjustino@gmail.com" target=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=""></a>
 	<a href="https://www.linkedin.com/in/rafael-justino-b04303222/" target=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a>
 </div>
